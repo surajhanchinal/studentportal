@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title></title>
+	<link href="https://surajhanchinal.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://surajhanchinal.github.io"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-02T00:00:00+00:00</updated>
+	<id>https://surajhanchinal.github.io/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Why the blog?</title>
+		<published>2023-01-02T00:00:00+00:00</published>
+		<updated>2023-01-02T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://surajhanchinal.github.io/some-article/" type="text/html"/>
+		<id>https://surajhanchinal.github.io/some-article/</id>
+		<content type="html">&lt;p&gt;I want to chronicle all of my thoughts and my work moving forward and starting it in the beginning of a new year just felt right. Hopefully more to come.&lt;&#x2F;p&gt;
+&lt;span id=&quot;continue-reading&quot;&gt;&lt;&#x2F;span&gt;</content>
+	</entry>
+</feed>
