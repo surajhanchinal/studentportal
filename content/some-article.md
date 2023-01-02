@@ -1,5 +1,5 @@
 +++
-title = "Why the blog"
+title = "Why the blog?"
 date = 2023-01-02
 
 [taxonomies]
